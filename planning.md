@@ -1,7 +1,7 @@
 # Project 3 Planning: K-pop Reddit Discourse Classifier 
 
 ## Community
-r/kpop - an active subreddit about Korean pop music discussion. The discoure is varied enough for classification because posts range from emotional fan reactions to structured musical analysis to event-driven news responses, all within the same community. 
+r/kpopthoughts - an active subreddit about Korean pop music discussion. The discoure is varied enough for classification because posts range from emotional fan reactions to structured musical analysis to event-driven news responses, all within the same community. 
 
 ## Label Taxonomy
 
@@ -9,22 +9,19 @@ r/kpop - an active subreddit about Korean pop music discussion. The discoure is 
 Posts expressing stan behavior, appreciation for their idols or group loyalty. The post tends to be about the artist as a person or their role in a group, but not about the music itself. 
 
 Examples: 
-- "Jungkook is the best vocalist in the K-pop industry."
-- "Txt has worked so hard for this comeback, best of luck to them." 
+- "BTS RM has been appointed as Goodwill Ambassador for the National Museum of Korea"
 
 ### Label 2: analysis
 Posts that tend to break down music from their favorite korean artists and explaining the meaning behind lyrics, choreography, and production. 
 
 Examples" 
-- "Track 5 transitions into the mellower portion of the album."
-- "Vocal and rap line sing back and forth to create greater emphasis."
+- "It is very poetic and the English translations really don't do it much justice compared to the Korean lyrics"
 
 ### Label 3: reaction
 Posts responding to events, such as an artist comeback, chart update or milestone, award, or scandal with an immediate response from the fandom. 
 
 Examples: 
-"They deserved to win AOTY, so proud of them."
-"That comeback showcase was amazing, can't wait to rewatch."
+""Suddenly" by I.O.I has taken its first win on this week's episode of MBC Show! Music Core (260613)"
 
 ## Hard Edge Cases
 A post that reacts to a comeback stage and analyzes the quality of the music and the artists' choreography. 
